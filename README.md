@@ -9,7 +9,7 @@ SwiftUI, CoreData, Foundation, PhotosUI<br>
 |---|---|
 |<img width="375" alt="スクリーンショット 2022-07-29 16 35 47" src="https://user-images.githubusercontent.com/106091028/181709729-32366d80-0188-45b2-a454-2ab31f39f4ff.png"><br>|<img width="352" alt="スクリーンショット 2022-07-29 16 36 21" src="https://user-images.githubusercontent.com/106091028/181709801-dabecc87-54eb-4a4e-8cc8-76a743c7806b.png"><br>|
 　
-|  3.写真を選択する|  4.addボタンを押す|
+|&emsp3.写真を選択する|&emsp4.addボタンを押す|
 |<img width="342" alt="スクリーンショット 2022-07-29 16 36 35" src="https://user-images.githubusercontent.com/106091028/181709849-e7e1889d-c07a-4381-b935-a16d5fe7b7ae.png"><br>|<img width="343" alt="スクリーンショット 2022-07-29 16 36 47" src="https://user-images.githubusercontent.com/106091028/181709902-869cb88e-eb81-4115-934e-fda619fb0be8.png"><br>|
 　
 |  5.タイトルを付け、日付マークをタップする|  6.日付を付ける|
