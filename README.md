@@ -5,7 +5,9 @@
 SwiftUI, CoreData, Foundation, PhotosUI<br>
 
 ## アプリの使い方<br>
-<img width="375" alt="スクリーンショット 2022-07-29 16 35 47" src="https://user-images.githubusercontent.com/106091028/181709729-32366d80-0188-45b2-a454-2ab31f39f4ff.png"><br>
+<img width="375" alt="スクリーンショット 2022-07-29 16 35 47" src="https://user-images.githubusercontent.com/106091028/181709729-32366d80-0188-45b2-a454-2ab31f39f4ff.png">
+・新規作成ボタンをタップする
+<br>
 
 <img width="352" alt="スクリーンショット 2022-07-29 16 36 21" src="https://user-images.githubusercontent.com/106091028/181709801-dabecc87-54eb-4a4e-8cc8-76a743c7806b.png">
 
